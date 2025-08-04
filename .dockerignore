@@ -1,0 +1,11 @@
+# Exclui diretórios e arquivos de build do .NET
+bin/
+obj/
+
+# Exclui arquivos de configuração do Visual Studio e IDEs
+.vs/
+.vscode/
+*.sln.DotSettings
+
+# Exclui a pasta do front-end React para não ser copiada na imagem do back-end
+trabalho-web2final/

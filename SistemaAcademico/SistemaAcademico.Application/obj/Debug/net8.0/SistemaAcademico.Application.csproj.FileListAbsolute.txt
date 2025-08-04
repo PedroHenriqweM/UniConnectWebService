@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Documentos\VisualStudio\Web\TrabalhoWeb03\SistemaAcademico\SistemaAcademico.Application\bin\Debug\net8.0\SistemaAcademico.Application.deps.json
+C:\Users\User\OneDrive\Documentos\VisualStudio\Web\TrabalhoWeb03\SistemaAcademico\SistemaAcademico.Application\bin\Debug\net8.0\SistemaAcademico.Application.dll
+C:\Users\User\OneDrive\Documentos\VisualStudio\Web\TrabalhoWeb03\SistemaAcademico\SistemaAcademico.Application\bin\Debug\net8.0\SistemaAcademico.Application.pdb
+C:\Users\User\OneDrive\Documentos\VisualStudio\Web\TrabalhoWeb03\SistemaAcademico\SistemaAcademico.Application\bin\Debug\net8.0\SistemaAcademico.Domain.dll
+C:\Users\User\OneDrive\Documentos\VisualStudio\Web\TrabalhoWeb03\SistemaAcademico\SistemaAcademico.Application\bin\Debug\net8.0\SistemaAcademico.Infrastructure.dll
+C:\Users\User\OneDrive\Documentos\VisualStudio\Web\TrabalhoWeb03\SistemaAcademico\SistemaAcademico.Application\bin\Debug\net8.0\SistemaAcademico.Domain.pdb
+C:\Users\User\OneDrive\Documentos\VisualStudio\Web\TrabalhoWeb03\SistemaAcademico\SistemaAcademico.Application\bin\Debug\net8.0\SistemaAcademico.Infrastructure.pdb
+C:\Users\User\OneDrive\Documentos\VisualStudio\Web\TrabalhoWeb03\SistemaAcademico\SistemaAcademico.Application\obj\Debug\net8.0\SistemaAcademico.Application.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documentos\VisualStudio\Web\TrabalhoWeb03\SistemaAcademico\SistemaAcademico.Application\obj\Debug\net8.0\SistemaAcademico.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\VisualStudio\Web\TrabalhoWeb03\SistemaAcademico\SistemaAcademico.Application\obj\Debug\net8.0\SistemaAcademico.Application.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\VisualStudio\Web\TrabalhoWeb03\SistemaAcademico\SistemaAcademico.Application\obj\Debug\net8.0\SistemaAcademico.Application.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\VisualStudio\Web\TrabalhoWeb03\SistemaAcademico\SistemaAcademico.Application\obj\Debug\net8.0\SistemaAcademico.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\VisualStudio\Web\TrabalhoWeb03\SistemaAcademico\SistemaAcademico.Application\obj\Debug\net8.0\SistemaA.57B3F77B.Up2Date
+C:\Users\User\OneDrive\Documentos\VisualStudio\Web\TrabalhoWeb03\SistemaAcademico\SistemaAcademico.Application\obj\Debug\net8.0\SistemaAcademico.Application.dll
+C:\Users\User\OneDrive\Documentos\VisualStudio\Web\TrabalhoWeb03\SistemaAcademico\SistemaAcademico.Application\obj\Debug\net8.0\refint\SistemaAcademico.Application.dll
+C:\Users\User\OneDrive\Documentos\VisualStudio\Web\TrabalhoWeb03\SistemaAcademico\SistemaAcademico.Application\obj\Debug\net8.0\SistemaAcademico.Application.pdb
+C:\Users\User\OneDrive\Documentos\VisualStudio\Web\TrabalhoWeb03\SistemaAcademico\SistemaAcademico.Application\obj\Debug\net8.0\ref\SistemaAcademico.Application.dll

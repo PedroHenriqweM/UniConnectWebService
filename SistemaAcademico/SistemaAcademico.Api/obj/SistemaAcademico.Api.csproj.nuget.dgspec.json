@@ -1,0 +1,282 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\User\\OneDrive\\Documentos\\VisualStudio\\Web\\TrabalhoWeb03\\SistemaAcademico\\SistemaAcademico.Api\\SistemaAcademico.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\User\\OneDrive\\Documentos\\VisualStudio\\Web\\TrabalhoWeb03\\SistemaAcademico\\SistemaAcademico.Api\\SistemaAcademico.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Documentos\\VisualStudio\\Web\\TrabalhoWeb03\\SistemaAcademico\\SistemaAcademico.Api\\SistemaAcademico.Api.csproj",
+        "projectName": "SistemaAcademico.Api",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Documentos\\VisualStudio\\Web\\TrabalhoWeb03\\SistemaAcademico\\SistemaAcademico.Api\\SistemaAcademico.Api.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Documentos\\VisualStudio\\Web\\TrabalhoWeb03\\SistemaAcademico\\SistemaAcademico.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\User\\OneDrive\\Documentos\\VisualStudio\\Web\\TrabalhoWeb03\\SistemaAcademico\\SistemaAcademico.Application\\SistemaAcademico.Application.csproj": {
+                "projectPath": "C:\\Users\\User\\OneDrive\\Documentos\\VisualStudio\\Web\\TrabalhoWeb03\\SistemaAcademico\\SistemaAcademico.Application\\SistemaAcademico.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.18, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\User\\OneDrive\\Documentos\\VisualStudio\\Web\\TrabalhoWeb03\\SistemaAcademico\\SistemaAcademico.Application\\SistemaAcademico.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Documentos\\VisualStudio\\Web\\TrabalhoWeb03\\SistemaAcademico\\SistemaAcademico.Application\\SistemaAcademico.Application.csproj",
+        "projectName": "SistemaAcademico.Application",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Documentos\\VisualStudio\\Web\\TrabalhoWeb03\\SistemaAcademico\\SistemaAcademico.Application\\SistemaAcademico.Application.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Documentos\\VisualStudio\\Web\\TrabalhoWeb03\\SistemaAcademico\\SistemaAcademico.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\User\\OneDrive\\Documentos\\VisualStudio\\Web\\TrabalhoWeb03\\SistemaAcademico\\SistemaAcademico.Domain\\SistemaAcademico.Domain.csproj": {
+                "projectPath": "C:\\Users\\User\\OneDrive\\Documentos\\VisualStudio\\Web\\TrabalhoWeb03\\SistemaAcademico\\SistemaAcademico.Domain\\SistemaAcademico.Domain.csproj"
+              },
+              "C:\\Users\\User\\OneDrive\\Documentos\\VisualStudio\\Web\\TrabalhoWeb03\\SistemaAcademico\\SistemaAcademico.Infrastructure\\SistemaAcademico.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\User\\OneDrive\\Documentos\\VisualStudio\\Web\\TrabalhoWeb03\\SistemaAcademico\\SistemaAcademico.Infrastructure\\SistemaAcademico.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\User\\OneDrive\\Documentos\\VisualStudio\\Web\\TrabalhoWeb03\\SistemaAcademico\\SistemaAcademico.Domain\\SistemaAcademico.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Documentos\\VisualStudio\\Web\\TrabalhoWeb03\\SistemaAcademico\\SistemaAcademico.Domain\\SistemaAcademico.Domain.csproj",
+        "projectName": "SistemaAcademico.Domain",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Documentos\\VisualStudio\\Web\\TrabalhoWeb03\\SistemaAcademico\\SistemaAcademico.Domain\\SistemaAcademico.Domain.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Documentos\\VisualStudio\\Web\\TrabalhoWeb03\\SistemaAcademico\\SistemaAcademico.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\User\\OneDrive\\Documentos\\VisualStudio\\Web\\TrabalhoWeb03\\SistemaAcademico\\SistemaAcademico.Infrastructure\\SistemaAcademico.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Documentos\\VisualStudio\\Web\\TrabalhoWeb03\\SistemaAcademico\\SistemaAcademico.Infrastructure\\SistemaAcademico.Infrastructure.csproj",
+        "projectName": "SistemaAcademico.Infrastructure",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Documentos\\VisualStudio\\Web\\TrabalhoWeb03\\SistemaAcademico\\SistemaAcademico.Infrastructure\\SistemaAcademico.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Documentos\\VisualStudio\\Web\\TrabalhoWeb03\\SistemaAcademico\\SistemaAcademico.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\User\\OneDrive\\Documentos\\VisualStudio\\Web\\TrabalhoWeb03\\SistemaAcademico\\SistemaAcademico.Domain\\SistemaAcademico.Domain.csproj": {
+                "projectPath": "C:\\Users\\User\\OneDrive\\Documentos\\VisualStudio\\Web\\TrabalhoWeb03\\SistemaAcademico\\SistemaAcademico.Domain\\SistemaAcademico.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

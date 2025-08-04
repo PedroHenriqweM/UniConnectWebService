@@ -1,0 +1,11 @@
+C:\Users\User\OneDrive\Documentos\VisualStudio\Web\TrabalhoWeb03\SistemaAcademico\SistemaAcademico.Domain\bin\Debug\net8.0\SistemaAcademico.Domain.deps.json
+C:\Users\User\OneDrive\Documentos\VisualStudio\Web\TrabalhoWeb03\SistemaAcademico\SistemaAcademico.Domain\bin\Debug\net8.0\SistemaAcademico.Domain.dll
+C:\Users\User\OneDrive\Documentos\VisualStudio\Web\TrabalhoWeb03\SistemaAcademico\SistemaAcademico.Domain\bin\Debug\net8.0\SistemaAcademico.Domain.pdb
+C:\Users\User\OneDrive\Documentos\VisualStudio\Web\TrabalhoWeb03\SistemaAcademico\SistemaAcademico.Domain\obj\Debug\net8.0\SistemaAcademico.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\VisualStudio\Web\TrabalhoWeb03\SistemaAcademico\SistemaAcademico.Domain\obj\Debug\net8.0\SistemaAcademico.Domain.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\VisualStudio\Web\TrabalhoWeb03\SistemaAcademico\SistemaAcademico.Domain\obj\Debug\net8.0\SistemaAcademico.Domain.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\VisualStudio\Web\TrabalhoWeb03\SistemaAcademico\SistemaAcademico.Domain\obj\Debug\net8.0\SistemaAcademico.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\VisualStudio\Web\TrabalhoWeb03\SistemaAcademico\SistemaAcademico.Domain\obj\Debug\net8.0\SistemaAcademico.Domain.dll
+C:\Users\User\OneDrive\Documentos\VisualStudio\Web\TrabalhoWeb03\SistemaAcademico\SistemaAcademico.Domain\obj\Debug\net8.0\refint\SistemaAcademico.Domain.dll
+C:\Users\User\OneDrive\Documentos\VisualStudio\Web\TrabalhoWeb03\SistemaAcademico\SistemaAcademico.Domain\obj\Debug\net8.0\SistemaAcademico.Domain.pdb
+C:\Users\User\OneDrive\Documentos\VisualStudio\Web\TrabalhoWeb03\SistemaAcademico\SistemaAcademico.Domain\obj\Debug\net8.0\ref\SistemaAcademico.Domain.dll

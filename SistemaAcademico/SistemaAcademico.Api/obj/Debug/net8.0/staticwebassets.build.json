@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TnoOuNpEiLUctx7IeFpWPbgBlUalzvPgDu3OzFq4YFg=",
+  "Source": "SistemaAcademico.Api",
+  "BasePath": "_content/SistemaAcademico.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
