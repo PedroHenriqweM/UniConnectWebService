@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaAcademico.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e746f75605a485df219f3a07d5b079843adcdb2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f33140f61f0fd189deae3a0e333af00d527e3345")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaAcademico.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaAcademico.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
